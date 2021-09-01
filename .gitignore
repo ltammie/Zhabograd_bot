@@ -1,0 +1,4 @@
+# files/folders not to be added to vcs (git)
+
+#PyCharm
+.idea
